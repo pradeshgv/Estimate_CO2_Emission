@@ -17,3 +17,9 @@ We have downloaded a fuel consumption dataset, **`FuelConsumption.csv`**, which 
 *   **FUEL CONSUMPTION in HWY (L/100 km)** e.g. 8.9
 *   **FUEL CONSUMPTION COMB (L/100 km)** e.g. 9.2
 *   **CO2 EMISSIONS (g/km)** e.g. 182   --> low --> 0
+
+## Packages Used
+**Numpy**
+**Pandas**
+**PyLab**
+**Matplotlib**
