@@ -1,6 +1,6 @@
 # Estimate_CO2_Emission
 
-This project aims to estimate CO2 emission using Simple Linear Regression and Multiple Linear Regression using Machine Learning
+This project aims to estimate CO2 emission using Simple Linear Regression and Multiple Linear Regression in Machine Learning
 
 ## Dataset Used
 
