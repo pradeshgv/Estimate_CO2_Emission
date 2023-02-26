@@ -24,3 +24,9 @@ We have downloaded a fuel consumption dataset, **`FuelConsumption.csv`**, which 
 *   **PyLab**
 *   **Matplotlib**
 *   **Scikit-Learn**
+
+## How to Run
+1. Download the repository and store it in a folder
+2. Install all the used packages
+3. Open jupyter notebook and select the kernel where the packages are installed
+4. Run the code
