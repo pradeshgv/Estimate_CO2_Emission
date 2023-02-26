@@ -19,7 +19,7 @@ We have downloaded a fuel consumption dataset, **`FuelConsumption.csv`**, which 
 *   **CO2 EMISSIONS (g/km)** e.g. 182   --> low --> 0
 
 ## Packages Used
-**Numpy**
-**Pandas**
-**PyLab**
-**Matplotlib**
+*   **Numpy**
+*   **Pandas**
+*   **PyLab**
+*   **Matplotlib**
