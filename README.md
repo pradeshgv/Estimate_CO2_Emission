@@ -23,3 +23,4 @@ We have downloaded a fuel consumption dataset, **`FuelConsumption.csv`**, which 
 *   **Pandas**
 *   **PyLab**
 *   **Matplotlib**
+*   **Scikit-Learn**
